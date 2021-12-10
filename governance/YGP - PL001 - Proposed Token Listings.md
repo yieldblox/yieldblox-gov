@@ -63,7 +63,7 @@ The following assets should be initially listed in the YieldBlox protocol with t
      5. _Volume:_ **(2/5)** - YBX volume has heavily improved lately with a 7-day-volume of $1,437,849.
      6. _Trust:_ **(5/5)** - YBX is controlled by the same smart contracts that control YieldBlox and is relatively evenly distributed.
    - **Proposed Risk Parameters:**
-     1. _Liquidation Incentive:_ **10%** - Getting liquidated while using veYBX as collateral damages the protocol and other YBX voting escrowers, especially given low liquidity. So it should be heavily penalized.
+     1. _Liquidation Incentive:_ **10%** - Getting liquidated while using Escrowed YBX as collateral damages the protocol and other YBX voting escrowers, especially given low liquidity. So it should be heavily penalized.
      2. _Liquidation Fee:_ **80%** - Liquidators should be incentivized to withdraw other types of collateral before they withdraw YBX. A liquidation fee of 80% results in the effective liquidation incentive being 2%, as 80% of liquidation profit will be paid to the escrow pool (formerly staking pool).
      3. _Loan-to-Value:_ **15%** - Oracle availability and liquidity are a significant concern for YBX. Unless either of these factors improves, it would be risky to implement a higher loan-to-value ratio. That being said, once YBX/XLM staking is added to the protocol, we think liquidity will reach a sufficient level to support higher loan-to-value ratios.
 2. XLM
