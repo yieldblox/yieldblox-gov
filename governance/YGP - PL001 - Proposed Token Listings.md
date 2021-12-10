@@ -11,7 +11,7 @@ Discussion: https://discord.gg/kBPgCXFw
 
 ## Summary
 
-Script3 performed an analysis of Stellar ecosystem assets to determine which should be supported by YieldBlox when the protocol launches. Our analysis focused on asset liquidity, volatility, oracle availability, relevance, volume, and trust. Based on our findings, we recommend that veYBX (formerly staked YBX), XLM, USDC, AQUA, BTC (UltraStellar), and ETH (UltraStellar) be onboarded as initially supported assets. veYBX and Aqua should have conservative risk factors.
+Script3 performed an analysis of Stellar ecosystem assets to determine which should be supported by YieldBlox when the protocol launches. Our analysis focused on asset liquidity, volatility, oracle availability, relevance, volume, and trust. Based on our findings, we recommend that Escrowed YBX (formerly staked YBX), XLM, USDC, AQUA, BTC (UltraStellar), and ETH (UltraStellar) be onboarded as initially supported assets. Escrowed YBX and Aqua should have conservative risk factors.
 
 ## Motivation
 
@@ -52,7 +52,7 @@ The following assets should be initially listed in the YieldBlox protocol with t
 
 ### Proposed Assets
 
-1. **veYBX** (previously sYBX)
+1. **Escrowed YBX** (previously sYBX)
    - **Overview:**
      Escrowed YBX (previously staked YBX) should be enabled for use as collateral immediately with a cautious loan to value ratio.
    - **Analysis:**
