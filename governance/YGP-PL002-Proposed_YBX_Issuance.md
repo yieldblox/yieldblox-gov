@@ -24,11 +24,12 @@ This governance proposal will set the `YBX_ISSUANCE_RATE` data entry in the Yiel
 ## Considerations
 
 - YBX Issuance Equation\
-  ![\Large](<https://latex.codecogs.com/svg.latex?I%20%3D%20(T-O)*R>)  
+  *I = (T-O) * R*\
   Where:
 
       - I = YBX Issuance on a given day
       - T = Total YBX Issuance (currently 1.5 billion)
+      - O = Total YBX Outstanding (initially 690 million)
       - R = YBX Issuance Rate
 
 - An issuance rate of .00075 will issue 167,126,751.68 YBX over the first year which means total YBX outstanding will be 857,126,751.68 (most of this will not be circulating). At this issuance rate 1,447,581,612 YBX will be outstanding after 10 years.
