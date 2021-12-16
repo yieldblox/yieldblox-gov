@@ -33,8 +33,16 @@ This governance proposal will set the `YBX_ISSUANCE_RATE` data entry in the Yiel
       - R = YBX Issuance Rate
 
 - An issuance rate of .00075 will issue 167,126,751.68 YBX over the first year which means total YBX outstanding will be 857,126,751.68 (most of this will not be circulating). At this issuance rate 1,447,581,612 YBX will be outstanding after 10 years.
-- Assuming a constant YBX price and that APR for lenders stabilizes at 25%, this issuance rate targets a TVL of $ 501,380,255.04.
-- This issuance rate guarantees that team and investor token allocations will be the minority of voting power after the first year. Total team and founder allocations are 117,500,000 YBX (most is still locked after the first year).
+   - There will be 690 million YBX outstanding initially
+     - 375 million in the DAO treasury
+     - 10 million from the airdrop
+     - 34.95 million allocated to the bug bounty
+     - 150 million in the Script3 Partnership Treasury
+     - 82.5 million allocated to the team (4 year vesting schedule with a 1 year cliff)
+     - 37.5 million allocated to investors (unlocked after 1 year)
+- Assuming a that YBX's price remain's constant, that 50% of YBX issuance is directed to escrower's (formerly stakers), and that APR for lenders stabilizes at 25%, this issuance rate targets a TVL of $ 501,380,255.04.
+- This issuance rate guarantees that team and investor token allocations will be the minority of voting power after the first year.
+   - After 1 year 177,126,751.68 YBX will be held by the community and 58,125,000.00 will be held by the team+investors.
 
 ## Implementation
 
