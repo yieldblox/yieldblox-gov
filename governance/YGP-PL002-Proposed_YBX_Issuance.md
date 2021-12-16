@@ -53,7 +53,7 @@ This governance proposal will set the `YBX_ISSUANCE_VARIABLE` in the initial Yie
 ### Visualizations
 
 #### YBX Issuance Over Year 1
-![image](https://user-images.githubusercontent.com/59978114/146437399-49003fa1-8955-4445-b594-f02f12bd95af.png)
+![image](https://user-images.githubusercontent.com/59978114/146439511-b8afb7d2-fd6f-451d-bf32-17ff6887386f.png)
 
 #### YBX Issuance Over 10 Years
 ![image](https://user-images.githubusercontent.com/59978114/146437508-3642a8c9-1fe8-4e27-b9ba-e7b1022a1915.png)
