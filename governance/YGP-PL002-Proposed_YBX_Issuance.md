@@ -46,4 +46,18 @@ This governance proposal will set the `YBX_ISSUANCE_RATE` data entry in the Yiel
 
 ## Implementation
 
-This governance proposal will set a variable in the initial YBX protocol release
+This governance proposal will set the `YBX_ISSUANCE_VARIABLE` in the initial YieldBlox protocol to .00075.
+
+## Other Materials
+
+### Visualizations
+
+#### YBX Issuance Over Year 1
+![image](https://user-images.githubusercontent.com/59978114/146437399-49003fa1-8955-4445-b594-f02f12bd95af.png)
+
+#### YBX Issuance Over 10 Years
+![image](https://user-images.githubusercontent.com/59978114/146437508-3642a8c9-1fe8-4e27-b9ba-e7b1022a1915.png)
+
+#### % of YBX Issued Over 10 Years
+![image](https://user-images.githubusercontent.com/59978114/146437622-88fb4c1a-f0d5-4491-872b-1a89dc9f2fc1.png)
+
