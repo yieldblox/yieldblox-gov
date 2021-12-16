@@ -32,7 +32,7 @@ This governance proposal will set the `YBX_ISSUANCE_RATE` data entry in the Yiel
       - O = Total YBX Outstanding (initially 690 million)
       - R = YBX Issuance Rate
 
-- An issuance rate of .00075 will issue 167,126,751.68 YBX over the first year which means total YBX outstanding will be 857,126,751.68 (most of this will not be circulating). At this issuance rate 1,447,581,612 YBX will be outstanding after 10 years.
+- An issuance rate of .00075 will issue 167,126,751.68 YBX over the first year which means total YBX outstanding will be 857,126,751.68 (most of this will not be circulating). At this issuance rate, 1,447,581,612 YBX will be outstanding after 10 years.
    - There will be 690 million YBX outstanding initially
      - 375 million in the DAO treasury
      - 10 million from the airdrop
